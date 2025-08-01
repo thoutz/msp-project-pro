@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg2-binary
+pydantic
+passlib[bcrypt]
+python-dotenv
+pyjwt
+httpx
+imapclient
+mail-parser
+celery[redis]
+reportlab
